@@ -1,4 +1,4 @@
-# hackathon_serverless - DogeRacers
+# hackathon_serverless - DogeRace
 
 A serverless Python + NodeJS application deployed on AWS Lambda to gamify AI model training with the use of trading signals and the blockchain.
 
