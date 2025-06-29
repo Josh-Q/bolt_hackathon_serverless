@@ -29,3 +29,27 @@ This app performs allows users to and play and understand what forms of AI are b
 - **Deployment**: AWS Lambda
 
 ---
+
+
+## Lambda case uses
+
+-- **Bolt_Hackathon_2025_AI_Predication** 
+
+-- **Bolt_Hackathon_2025_Assessor_AI** 
+
+-- **Bolt_Hackathon_2025_Authorizer** 
+
+-- **Bolt_Hackathon_2025_Bid** 
+
+-- **Bolt_Hackathon_2025_BlockChain_Common_Service** 
+
+-- **Bolt_Hackathon_2025_Login** 
+
+-- **Bolt_Hackathon_2025_Sessions** 
+
+-- **Bolt_Hackathon_2025_Users** 
+
+-- **Bolt_Hackathon_2025_Users_Bids** 
+
+
+
