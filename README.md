@@ -1,4 +1,4 @@
-# bolt_hackathon_serverless - DogeRacers
+# hackathon_serverless - DogeRacers
 
 A serverless Python + NodeJS application deployed on AWS Lambda to gamify AI model training with the use of trading signals and the blockchain.
 
@@ -33,23 +33,23 @@ This app performs allows users to and play and understand what forms of AI are b
 
 ## Lambda case uses
 
--- **Bolt_Hackathon_2025_AI_Predication** 
+-- **Hackathon_2025_AI_Predication** 
 
--- **Bolt_Hackathon_2025_Assessor_AI** 
+-- **Hackathon_2025_Assessor_AI** 
 
--- **Bolt_Hackathon_2025_Authorizer** 
+-- **Hackathon_2025_Authorizer** 
 
--- **Bolt_Hackathon_2025_Bid** 
+-- **Hackathon_2025_Bid** 
 
--- **Bolt_Hackathon_2025_BlockChain_Common_Service** 
+-- **Hackathon_2025_BlockChain_Common_Service** 
 
--- **Bolt_Hackathon_2025_Login** 
+-- **Hackathon_2025_Login** 
 
--- **Bolt_Hackathon_2025_Sessions** 
+-- **Hackathon_2025_Sessions** 
 
--- **Bolt_Hackathon_2025_Users** 
+-- **Hackathon_2025_Users** 
 
--- **Bolt_Hackathon_2025_Users_Bids** 
+-- **Hackathon_2025_Users_Bids** 
 
 
 
