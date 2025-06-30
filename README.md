@@ -8,7 +8,7 @@ A serverless Python + NodeJS application deployed on AWS Lambda to gamify AI mod
 
 This app performs allows users to and play and understand what forms of AI are better suited for tasks such as stock market pattern recognition using a Lambda function written in Python and NodeJS. It integrates with AWS services such as API Gateway, DynamoDB, Bedrock.
 
-Frontend repository : https://github.com/diniesganesan/bolt_hackathon
+Frontend repository : [here](https://github.com/diniesganesan/bolt_hackathon)
 
 ---
 
